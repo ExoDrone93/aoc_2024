@@ -8,6 +8,7 @@ import 'package:aoc_2024_dart/day4/part1.dart';
 import 'package:aoc_2024_dart/day4/part2.dart';
 import 'package:aoc_2024_dart/day5/part1.dart';
 import 'package:aoc_2024_dart/day5/part2.dart';
+import 'package:aoc_2024_dart/day6/part1.dart';
 
 void main(List<String> arguments) {
   day1Part1();
@@ -20,4 +21,5 @@ void main(List<String> arguments) {
   day4Part2();
   day5Part1();
   day5part2();
+  day6part1();
 }
